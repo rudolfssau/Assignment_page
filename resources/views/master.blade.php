@@ -7,6 +7,6 @@
     <link rel="stylesheet" href="css/styles.css?v=1.0">
 </head>
 <body>
-
+@yield('content')
 </body>
 </html>
